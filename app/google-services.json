@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564294849358",
+    "firebase_url": "https://myfleetvigil.firebaseio.com",
+    "project_id": "myfleetvigil",
+    "storage_bucket": "myfleetvigil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564294849358:android:0f0ddf4e06928a16",
+        "android_client_info": {
+          "package_name": "com.pibusa.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564294849358-vfj6s6lc6qhkfhr0phd7b621uhp8a72m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pibusa.myapplication",
+            "certificate_hash": "d896c83ecef60c44ffc28a2465a7b3e2d47b6110"
+          }
+        },
+        {
+          "client_id": "564294849358-r3i6iuq9jevajm8p6nvejn399kohihjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1Mkm-KJ6o-BqIWQ_FYg4vJWaV2NO_c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564294849358-r3i6iuq9jevajm8p6nvejn399kohihjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
